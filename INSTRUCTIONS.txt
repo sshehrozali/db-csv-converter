@@ -1,0 +1,25 @@
+--- | FOR CSV TO DB |---
+INSTRUCTIONS:
+
+You need to put your .csv file inside folder [PUT YOUR CSV FILE HERE]
+A sample file is already provided of students database inside folder [PUT YOUR CSV FILE HERE]
+Execute the program
+When prompt to ask for your .csv file (ENTER CORRECT NAME OF YOUR .CSV FILE)
+When prompt to type new name of .db file (ENTER CORRECT NAME)
+When prompt to type new table name (ENTER CORRECT NAME OF TABLE AND DON'T TYPE 'table')
+On success, a message will be printed on the terminal window
+
+=============================================================================================
+
+--- | FOR DB TO CSV |---
+INSTRUCTIONS:
+
+You need to put your .db file inside folder [PUT YOUR DATABASE FILE HERE]
+A sample file is already provided of students database inside folder [PUT YOUR DATABASE FILE HERE]
+Execute the program
+When prompt to ask for your .db file (ENTER CORRECT NAME OF YOUR .db FILE)
+When prompt to type new name of .csv file (ENTER CORRECT NAME)
+On success, a message will be printed on the terminal window
+
+Program Developed by Syed Shehroz Ali.
+
